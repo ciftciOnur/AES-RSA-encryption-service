@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: onurciftci
+Build-Jdk: 12.0.2
+Implementation-Title: encryption-comparison
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: tr.edu.yeditepe.encryptioncomparison
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/encryption-comparison
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,10 @@
+SPARSE: Privacy–Aware and Collusion Resistant Location Proof Generation and Verification
+Mohammad Reza Nosouhi∗†, Shui Yu‡§, Marthie Grobler†, Yong Xiang∗, and Zuqing Zhu∥ ∗School of Information Technology, Deakin University, Melbourne, Australia
+† CSIRO’s Data61, Melbourne, Australia
+systems in this field are STAMP [8] and PROPS [12]. In these systems, the Bussard–Bagga distaible.
+The following are our contributions:
+• We propose SPARSE, a secure and privacy–aware dis-
+tributed location proof scheme for mobile users. Security analysis shows that SPARSE achieves the necessary p
+The rest of our paper is organized as foll the related work in section II, we introduce the proposed SPARSE scheme in section
+The rest of our paper is organized as follows. After a short revi sectioII, we intdhe proposed SPARSE scheme in section III.sdsd A compr
+13] L. Bussard and W. Bagga, “Distance–bounding proof of knowledge to oid real–time attacks”, In Security and Privacy in the Age o

@@ -1,0 +1,3 @@
+SPARSE: Privacy–Aware and Collusion Resistant Location Proof Generation and Verification
+Mohammad Reza Nosouhi∗†, Shui Yu‡§, Marthie Grobler†, Yong Xiang∗, and Zuqing Zhu∥ ∗School of Information Technology, Deakin University, Melbourne, Australia
+† CSIRO’s Data61, Melbourne, Australia
